@@ -5,5 +5,4 @@ echo " lol i cant beleave this worked"
 sudo apt update
 sudo apt install -y geany
 clear
-
-
+echo "why am i here"
