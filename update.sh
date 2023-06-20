@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo "test for hos update"
+clear
+echo "test for hos update second time"
