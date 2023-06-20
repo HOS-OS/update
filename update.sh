@@ -6,3 +6,4 @@ sudo apt update
 sudo apt install -y geany
 clear
 echo "why am i here"
+clear
