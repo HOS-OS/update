@@ -3,7 +3,7 @@ clear
 echo "test for hos update second time"
 echo " lol i cant beleave this worked"
 sudo apt update
-sudo apt reinstall -y xpad
+sudo apt remove --purge -y xpad
 clear
 echo "why am i here"
 clear
